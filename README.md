@@ -29,8 +29,8 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 - Tensorflow 1.10
 - Pytorch 0.4.0
 - ...  
-The UI of this platform is written by Pyqt5.   
-Regarding the parameters of each network used in the platform, because it exceeds the file size requirement of Github, it is not uploaded. You can train by yourself or contact me.
+- The UI of this platform is written by Pyqt5.   
+- Regarding the parameters of each network used in the platform, because it exceeds the file size requirement of Github, it is not uploaded. You can train by yourself or contact me.
 ## The authors
 - If you have any questions，you can contact me :email: curryxin@tju.edu.cn.  
 - I'm also known to [blog](https://blog.csdn.net/Curry_xin)
