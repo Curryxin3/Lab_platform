@@ -1,0 +1,5 @@
+Accuracy:准确率,所有预测正确;的占总的比重.
+ROC:受试者工作特征,Receiver Operating;Characteristic.
+FV:特征可视化,Feature visualizations;
+
+

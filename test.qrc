@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="1">
+    <file>E:/Desktop/banner1.27dc71e.jpg</file>
+    <file>E:/Desktop/捕获.PNG</file>
+    <file>E:/Desktop/logo.afc8309.jpg</file>
+  </qresource>
+  <qresource prefix="2">
+    <file>PIC/4.png</file>
+    <file>PIC/3.png</file>
+    <file>PIC/1.PNG</file>
+    <file>PIC/捕获.PNG</file>
+    <file>PIC/logo.afc8309.jpg</file>
+    <file>PIC/banner1.27dc71e.jpg</file>
+  </qresource>
+</RCC>
