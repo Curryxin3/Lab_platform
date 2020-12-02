@@ -18,7 +18,7 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 
 ### The interface of the entire platform and its functional effects are shown in the figure below.
 <div align=center>
-  <img width="500" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/1.png"/>    <img width="500" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/2.png"/>
+   <img width="600" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/2.png"/>
 </div>
 
 
