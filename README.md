@@ -20,4 +20,5 @@ If you want to know more, you can click on the video below to watch.
 - I'm also known to [blog](https://blog.csdn.net/Curry_xin)
 - This is my [teammate](https://github.com/ZLJ2015106), you can contact her if you have any questions.
 ## Credits
-This project was greatly helped by [Tianjin University](http://www.tju.edu.cn/), especially the laboratory teachers and students.  If you are interested in the research direction of our laboratory, you can visit our website ：:blush:	[Institute of Television and Image Information, Tianjin University](https://www.iti-tju.org/#/research/research5
+This project was greatly helped by [Tianjin University](http://www.tju.edu.cn/), especially the laboratory teachers and students.  If you are interested in the research direction of our laboratory, you can visit our website [Institute of Television and Image Information, Tianjin University](https://www.iti-tju.org/#/research/research5)  
+Thank you for browsing:blush:
