@@ -11,12 +11,12 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 - [Memory analysis](https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/tree/main/memory)
 - [Popularity prediction]() 
 ## Display
-### The entire frame is shown in the figure below.
+#### The entire frame is shown in the figure below.
 <div align=center>
   <img width="300" height="300" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/3.png"/>
 </div>
 
-### The interface of the entire platform and its functional effects are shown in the figure below.
+#### The interface of the entire platform and its functional effects are shown in the figure below.
 <div align=center>
    <img width="600" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/2.png"/>
 </div>
@@ -30,7 +30,7 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 - Pytorch 0.4.0
 - ...  
 - The UI of this platform is written by Pyqt5.   
-- Regarding the parameters of each network used in the platform, because it exceeds the file size requirement of Github, it is not uploaded. You can train by yourself or contact me.
+- Regarding the parameters of each network used in the platform, because it exceeds the file size requirement of Github, it is not uploaded. You can train by yourself or contact me.:point_right:
 ## The authors
 - If you have any questions，you can contact me :email: curryxin@tju.edu.cn.  
 - I'm also known to [blog](https://blog.csdn.net/Curry_xin)
