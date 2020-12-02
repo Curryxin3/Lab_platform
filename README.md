@@ -1,5 +1,5 @@
 # Multi-video-semantic-intelligent-analysis-platform
-  Multi-video-semantic-intelligent-analysis-platform
+  :smiley: Multi-video-semantic-intelligent-analysis-platform :yum:
 ## Introduction  
 
 The Python-based Multi-video semantic intelligent analysis platform integrates various research results of the laboratory in the field of Multi-video understanding at this stage,  which is helpful for recording and displaying experimental results and promoting academic exchange activities. It is one of the huge challenges of the project to concentrate the major model frameworks in one system. The design of the platform interface integrates popular elements such as barrage, search, and web page jumps. The entire system integrates rigorous academic research technology and an image display interface. , which is easy for users to operate and understand. The semantic information research of multi-videos can accurately obtain some information of multi-videos such as behaviors, scenes and other information, and the perform have other functions such as popularity prediction.These contents can guide commercial positioning, market pricing, etc., and promote the further development of AI technology.
