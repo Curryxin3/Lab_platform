@@ -12,7 +12,9 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 - [Popularity prediction]() 
 ## Display
 The overall interface of this platform is shown below.
-
+![frame](https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/3.png)
+![display](https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/1.png)
+![after](https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/2.png)
 
 If you want to know more, you can click on the video below to watch.
 ## The authors
