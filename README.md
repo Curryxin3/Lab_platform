@@ -11,13 +11,19 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 - [Memory analysis]()
 - [Popularity prediction]() 
 ## Display
-#### The entire frame is shown in the figure below：
-<div align=center><img width="150" height="150" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/3.png"/></div>
-<img src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/3.png" width="300" height="300">
-#### The interface of the entire platform and its functional effects are shown in the figure below
-<center class="half">
-    <img src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/1.png" width="400"/><img src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/2.png" width="400"/> </center>
-If you want to know more, you can click on the video below to watch.
+#### The entire frame is shown in the figure below.
+<div align=center>
+  <img width="300" height="300" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/3.png"/>
+</div>
+#### The interface of the entire platform and its functional effects are shown in the figure below.
+<div align=center>
+  <img width="300" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/1.png"/>
+</div>
+<div align=center>
+  <img width="300" src="https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/blob/main/Display/2.png"/>
+</div>
+
+#### If you want to know more, you can click on the video below to watch.
 
 ## The authors
 - If you have any questions，you can contact me :email: curryxin@tju.edu.cn.  
