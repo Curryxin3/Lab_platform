@@ -23,7 +23,8 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 
 
 #### If you want to know more, you can click on the video below to watch.
-
+:tv: [Presentation of the platform](https://www.bilibili.com/video/BV18r4y1c7nF/)
+If it’s helpful for you, please give me a thumbs-up. :+1:
 ## Usage
 - Python 3.5.6
 - Tensorflow 1.10
