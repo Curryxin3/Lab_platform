@@ -6,9 +6,9 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 ## Functions
 - [Scene estimation]()
 - [Event detection]()
-- [emotion analysis]()
-- [Fashion analysis]()
-- [Memory analysis]()
+- [emotion analysis](https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/tree/main/emotion_utils)
+- [Fashion analysis](https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/tree/main/fashion)
+- [Memory analysis](https://github.com/Curryxin3/Multi-video-semantic-intelligent-analysis-platform/tree/main/memory)
 - [Popularity prediction]() 
 ## Display
 ### The entire frame is shown in the figure below.
@@ -24,7 +24,13 @@ The Python-based Multi-video semantic intelligent analysis platform integrates v
 
 #### If you want to know more, you can click on the video below to watch.
 
-
+## Usage
+- Python 3.5.6
+- Tensorflow 1.10
+- Pytorch 0.4.0
+- ...
+The UI of this platform is written by Pyqt5. 
+Regarding the parameters of each network used in the platform, because it exceeds the file size requirement of Github, it is not uploaded. You can train by yourself or contact me.
 ## The authors
 - If you have any questions，you can contact me :email: curryxin@tju.edu.cn.  
 - I'm also known to [blog](https://blog.csdn.net/Curry_xin)
