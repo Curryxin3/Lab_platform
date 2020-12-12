@@ -34,7 +34,7 @@ If it’s helpful for you, please give me a thumbs-up. :+1:
 - Regarding the parameters of each network used in the platform, because it exceeds the file size requirement of Github, it is not uploaded. You can train by yourself or contact me. :arrow_down:
 ## The authors
 - If you have any questions，you can contact me :email: curryxin@tju.edu.cn.  
-- I'm also known to [blog](https://blog.csdn.net/Curry_xin)
+- I'm also known to [blog](https://www.cnblogs.com/Curryxin/)
 - This is my [teammate](https://github.com/ZLJ2015106), you can contact her if you have any questions.
 ## Credits
 This project was greatly helped by [Tianjin University](http://www.tju.edu.cn/), especially the laboratory teachers and students.   
